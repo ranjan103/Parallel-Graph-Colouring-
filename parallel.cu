@@ -2,8 +2,7 @@
 *   CUDA C/C++ implementation for Parallel Graph Coloring for Manycore Architectures
 *   {@link https://ieeexplore.ieee.org/abstract/document/7516086}
 *
-*   @author Ashwin Joisa
-*   @author Praveen Gupta
+*   @author Abhishek Ranjan
 **/
 
 //=============================================================================================//
